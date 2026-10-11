@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "matlab_version": "26.1.0.3312084 (R2026a) Update 4",
+  "matlab_release": "2026a",
+  "max_energy_reference_error": 0.004397660493850708,
+  "max_hydrogen_surplus_reference_error": 0.0047395281726494431,
+  "max_economic_reference_error": 0.00049448240592520065,
+  "energy_reference_tolerance_kwh": 0.0050001,
+  "hydrogen_surplus_reference_tolerance": 0.0050001,
+  "economic_reference_tolerance": 0.0005001,
+  "monthly_energy_balance": "PASS",
+  "electrolyzer_capacity": "PASS"
+}

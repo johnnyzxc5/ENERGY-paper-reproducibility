@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the authors and study when referring to these computational results. See RIGHTS.md for permission terms."
+type: software
+title: "ENERGY paper reproducibility: Techno-Economic Feasibility of Wind-Powered Hydrogen Production in Saudi Arabia: A Multi-Regional Assessment"
+authors:
+  - family-names: "Castilla Batun"
+    given-names: "Uriel Isaac"
+  - family-names: "Garcia Betancourt"
+    given-names: "Johnny Adrian"
+repository-code: "https://github.com/johnnyzxc5/ENERGY-paper-reproducibility"
+keywords:
+  - wind energy
+  - hydrogen production
+  - techno-economic assessment
+  - reproducibility
+  - MATLAB

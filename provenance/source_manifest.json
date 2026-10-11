@@ -1,0 +1,73 @@
+{
+  "assembled_on": "2026-10-11",
+  "source_repository": "Paper_Energy (private)",
+  "source_commit": "f09075eb7fff0b4e514a724d75d592b862a4528b",
+  "public_repository": "ENERGY-paper-reproducibility",
+  "history": "Independently initialized; no manuscript Git history copied.",
+  "copied_artifacts": [
+    {
+      "source_artifact": "ESP2/ESP2.m",
+      "public_artifact": "code/ESP2.m",
+      "sha256": "e4d5b69df3eb98d01f055fdd97895635cee9221639f967b10ba6d41c1e8ce942",
+      "transformation": "None; byte-for-byte copy."
+    },
+    {
+      "source_artifact": "ESP2/Resultados_Overleaf_Energia/energia_anual_generada.eps",
+      "public_artifact": "results/reference/energia_anual_generada.eps",
+      "sha256": "844ff3116e39497d550f4c14ac7d6138772b728de2262d2ff8c36bf0a79a8dd3",
+      "transformation": "None; byte-for-byte copy."
+    },
+    {
+      "source_artifact": "ESP2/Resultados_Overleaf/produccion_anual_h2.eps",
+      "public_artifact": "results/reference/produccion_anual_h2.eps",
+      "sha256": "cdf3ce49e53f94c86b35ff27918e2b4e64c25dfdf17d0d615260a6e5faad7f04",
+      "transformation": "None; byte-for-byte copy."
+    },
+    {
+      "source_artifact": "ESP2/Resultados_Overleaf/costo_hidrogeno.eps",
+      "public_artifact": "results/reference/costo_hidrogeno.eps",
+      "sha256": "ccec556179782b9896b7e79b8984041b6fd07f901c96da273032ae3bea075c8a",
+      "transformation": "None; byte-for-byte copy."
+    },
+    {
+      "source_artifact": "ESP2/Resultados_Overleaf/grafica_E_EX.eps",
+      "public_artifact": "results/reference/grafica_E_EX.eps",
+      "sha256": "989f6b62f57059ee85db1c6740c25616be7634dc0813f4fbdf4b574b22dc08af",
+      "transformation": "None; byte-for-byte copy."
+    },
+    {
+      "source_artifact": "ESP2/Resultados_Overleaf/grafica_PR_EXP.eps",
+      "public_artifact": "results/reference/grafica_PR_EXP.eps",
+      "sha256": "e5b3972ac8d59a8029aebff59c0d39d714d639cd1ad63782c394206a9c2836d1",
+      "transformation": "None; byte-for-byte copy."
+    }
+  ],
+  "converted_reference_tables": [
+    {
+      "source_artifact": "ESP2/Resultados_Overleaf_Energia/tabla_energia.tex",
+      "source_sha256": "2db005168b9f81b79cfa84daff72ff3c5b5137d0f1dc04d228bb4159db140f1e",
+      "public_artifact": "results/reference/annual_energy.csv",
+      "transformation": "Numeric table cells exported as CSV; values and decimal precision unchanged."
+    },
+    {
+      "source_artifact": "ESP2/Resultados_Overleaf/tabla_hidrogeno_excedente.tex",
+      "source_sha256": "b4959098dfdfce570d06573f88a4b053d31aaaa85754a558af91bd791c6794af",
+      "public_artifact": "results/reference/annual_hydrogen_surplus.csv",
+      "transformation": "Numeric table cells exported as CSV; values and decimal precision unchanged."
+    },
+    {
+      "source_artifact": "ESP2/Resultados_Overleaf/tabla_resultados_economicos.tex",
+      "source_sha256": "6e01575096925ee145926ca43b59ef700f56965f6585fc3bf7f205c999bb74e5",
+      "public_artifact": "results/reference/economic_results.csv",
+      "transformation": "Numeric table cells exported as CSV; values and decimal precision unchanged."
+    }
+  ],
+  "excluded": [
+    "Manuscript LaTeX sources",
+    "Bibliography",
+    "Manuscript PDF",
+    "Manuscript build files",
+    "Geographic map image",
+    "Original Git history"
+  ]
+}

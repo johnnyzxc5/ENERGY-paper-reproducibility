@@ -1,0 +1,20 @@
+# Generated MATLAB outputs stay local.
+/results/generated/
+*.asv
+*.m~
+*.log
+
+# Manuscript sources and documents are outside the release scope.
+*.tex
+*.bib
+*.aux
+*.bbl
+*.blg
+*.synctex.gz
+*.pdf
+
+# Local editor and OS files.
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
