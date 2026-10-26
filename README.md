@@ -52,4 +52,9 @@ This archive reproduces the embedded monthly model and its numerical outputs. It
 
 ## Rights
 
-**All rights reserved. No MIT or other open-source license is granted.** See [RIGHTS.md](RIGHTS.md). Contact the authors for permission to reuse, modify, or redistribute these materials.
+Original computational software is licensed under [MIT](LICENSE). See [LICENSING.md](LICENSING.md) and [RIGHTS.md](RIGHTS.md) for the scope; frozen research artifacts and external material have separate rights.
+
+
+## License
+
+Original software is licensed under [MIT](LICENSE). See [LICENSING.md](LICENSING.md) for the covered paths and exclusions for manuscripts, research artifacts and third-party materials.

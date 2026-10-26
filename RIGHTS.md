@@ -1,8 +1,7 @@
-# Rights reserved
+# Rights and licensing
 
 Copyright (c) 2026 Uriel Isaac Castilla Batun and Johnny Adrian Garcia Betancourt.
-All rights reserved.
 
-This repository accompanies the study *Techno-Economic Feasibility of Wind-Powered Hydrogen Production in Saudi Arabia: A Multi-Regional Assessment* and is provided as a public record for inspection and reproducibility.
+The original computational code and software documentation identified in [LICENSING.md](LICENSING.md) are licensed under the [MIT License](LICENSE). This grant supersedes the earlier all-rights-reserved restriction for that software.
 
-No MIT license or other open-source license is granted. Please obtain the authors' permission before reusing, modifying, or redistributing these materials. Cite the authors and study when referring to the results.
+Frozen research results, figures, data, provenance inputs and third-party materials remain outside the software grant. The research manuscript is excluded from this repository; its copyright and publication agreements are separate. Cite the authors and study when discussing the scientific results.

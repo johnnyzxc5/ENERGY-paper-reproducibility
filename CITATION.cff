@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Please cite the authors and study when referring to these computational results. See RIGHTS.md for permission terms."
+message: "Please cite the authors and study when referring to these computational results. Original software is MIT licensed; see LICENSING.md for scope."
 type: software
 title: "ENERGY paper reproducibility: Techno-Economic Feasibility of Wind-Powered Hydrogen Production in Saudi Arabia: A Multi-Regional Assessment"
 authors:
@@ -14,3 +14,5 @@ keywords:
   - techno-economic assessment
   - reproducibility
   - MATLAB
+
+license: MIT
